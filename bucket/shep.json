@@ -31,14 +31,14 @@
     "have it. The Chocolatey package declares it properly, since vcredist140 is in",
     "the same repository the package itself comes from."
   ],
-  "version": "0.1.25",
+  "version": "0.1.26",
   "description": "Process manager that keeps a flock of long-running processes alive, with logs, watch and cron restarts, and webhook alerts",
   "homepage": "https://shep-pm.com",
   "license": "MIT|Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/shep-pm/shep/releases/download/shep-v0.1.25/shep-x86_64-pc-windows-msvc.zip",
-      "hash": "f504675394903e71407e7cb157dcf3c12ea061b4b6c3081231c0820418ad84d1"
+      "url": "https://github.com/shep-pm/shep/releases/download/shep-v0.1.26/shep-x86_64-pc-windows-msvc.zip",
+      "hash": "5969e28c5c9ebc5e64a0e77361397e82eb2dcd2181aed5f031e0afdbe80e6eba"
     }
   },
   "bin": "shep.exe",
